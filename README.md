@@ -6,15 +6,15 @@ This project is based entirely on a deep research dialogue conducted via [Gemini
 ## Screenshots
 
 The following images are screenshots taken during the interaction with Gemini:
-- ![](./image/Q&A.png)
-- ![](./image/page1.png)
-- ![](./image/page2.png)
-- ![](./image/page3.png)
-- ![](./image/page4.png)
-- ![](./image/page5.png)
-- ![](./image/page6.png)
-- ![](./image/page7.png)
-- ![](./image/page8.png)
+![](./image/Q&A.png)
+![](./image/page1.png)
+![](./image/page2.png)
+![](./image/page3.png)
+![](./image/page4.png)
+![](./image/page5.png)
+![](./image/page6.png)
+![](./image/page7.png)
+![](./image/page8.png)
 
 ## Original Conversation
 
